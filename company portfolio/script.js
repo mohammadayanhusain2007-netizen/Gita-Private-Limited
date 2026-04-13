@@ -1,5 +1,5 @@
 /* ================================================
-   GITA INTERPRISES LIMITED — PORTFOLIO JAVASCRIPT
+   MIRA FUTURE TECH PRIVATE LIMITED — PORTFOLIO JAVASCRIPT
    ================================================ */
 
 'use strict';
@@ -591,7 +591,7 @@ document.addEventListener('keydown', e => {
   if (JSON.stringify(konamiSequence) === JSON.stringify(KONAMI)) {
     document.body.style.animation = 'rainbowBg 3s linear';
     const msg = document.createElement('div');
-    msg.textContent = '🚀 Gita Interprises — Changing the World!';
+    msg.textContent = '🚀 Mira Future Tech — Changing the World!';
     msg.style.cssText = `
       position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
       background: linear-gradient(135deg, #1E90FF, #7C3AED);
